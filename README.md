@@ -2,6 +2,7 @@
 
 ## Overview
 "Our homes Your stay"
+
 OhYs is a full-featured luxury rental booking platform designed for seamless user experience. Users can browse, search, and book high-end properties, while hosts can easily submit and manage their listings. The platform includes interactive calendars for availability and real-time booking confirmations, all wrapped in a smooth and responsive design with beautiful animations.
 
 This platform helps connect renters with exclusive properties and makes the entire booking process effortless and enjoyable.
